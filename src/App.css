@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+ */
+
+
+/* Navigator */
+.navbar-nav a{
+  font-size: 20px;
+}
+
+.hero .card-img-overlay{
+  /* color: rgb(50, 49, 49); */
+  color: white;
+  /* text-align: left; */
 }
